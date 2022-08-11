@@ -118,7 +118,7 @@ class _MyAppState extends State<MyApp> {
 
                ),
                 const SizedBox(width: 20,),
-                Text('arslanshaukat009@gmail.com',
+                Text('arslanshaukat@abc.com',
                   style: TextStyle(
                   color: Colors.amber[300],
                   fontSize: 16,
